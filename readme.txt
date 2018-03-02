@@ -36,3 +36,7 @@ dede
  add dev
  
  add dev2
+ 
+ stash
+ 
+ issue
